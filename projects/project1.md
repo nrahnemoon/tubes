@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Project 1"
-description: "Description of Project #1"
+title: "Robotic Drill"
+description: "An autonomous drilling mechanism to deploy tubes underground at scale."
 header-img: "img/home-bg.jpg"
-category: project1
+category: robodrill
 ---
