@@ -1,7 +1,7 @@
 # Site settings
-title: Project Pages
-description: "An Integrated Scientific Blogging Template"
-url: "https://projectpages.github.io"
+title: Tubes
+description: "Website to track progress related to projects to build a robotic system to deploy an underground network of tubes."
+url: "https://nrahnemoon.github.io/tubes"
 
 
 
@@ -106,7 +106,7 @@ prose:
       - name: "horizontal"
         field:
           element: "hidden"
-          value: </section></section><section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+          value: </section></section><section markdown="1" data-background="http://nrahnemoon.github.io/tubes/img/slidebackground.png"><section markdown="1">
       - name: "vertical"
         field:
           element: "hidden"
@@ -114,7 +114,7 @@ prose:
       - name: "slideinit"
         field:
           element: "hidden"
-          value: <section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+          value: <section markdown="1" data-background="http://nrahnemoon.github.io/tubes/img/slidebackground.png"><section markdown="1">
       - name: "theme"
         field:
           element: "select"
