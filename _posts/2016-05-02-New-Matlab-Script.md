@@ -10,7 +10,6 @@ visualworkflow: true
 {% if page.visualworkflow == true %}
    {% include workflowmatlab.html %}
 {% endif %}   
-   
 
 <!--
 This HTML was auto-generated from MATLAB code.
