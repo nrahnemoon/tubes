@@ -1,0 +1,10 @@
+---
+layout:     post
+title:      5/14 - 5/21 Goals
+author:     Nima Rahnemoon
+tags: 		Goals
+subtitle:  	Goals -- Setup, market research and initial drill testing
+category:  goals
+---
+
+<iframe  width='100%' height='800' src="https://docs.google.com/document/d/1hEB0ReEsUqwVzc2ykDQa_mt56ZLq0QteOhsnTVUUW-8/pub?embedded=true"></iframe>

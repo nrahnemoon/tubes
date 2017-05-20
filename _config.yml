@@ -1,6 +1,6 @@
 # Site settings
 title: Tubes
-description: "Website to track progress related to projects to build a robotic system to deploy an underground network of tubes."
+description: "Robotic systems for the deployment of underground tube networks"
 url: "https://nrahnemoon.github.io"
 
 
@@ -13,8 +13,8 @@ headercolor: "#FFFFFF"
 logo: /tubes/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  nrahnemoon
-project_repository: tubes
+#github_username:  nrahnemoon
+#project_repository: tubes
 disqus_shortname: tubes-1
 g-analytics: UA-99101600-1
 altmetric: true
